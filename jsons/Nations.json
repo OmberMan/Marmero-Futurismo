@@ -2,7 +2,7 @@
         // Civilizations
         {
                 "name": "Antegria",
-                "leaderName": "Filippo Marinetti",
+                "leaderName": "Filippo Tommato Marinetti",
                 "adjective": ["Futurist"],
                 "startBias": ["Coast"],
                 "preferredVictoryType": "Domination",
@@ -22,8 +22,8 @@
                  "outerColor": [125,245,15],
                  "innerColor": [245,35,165],
                  "uniqueName": "Marmero Futurista",
-                 "uniqueText": "All specialists yield +1 Culture and +1 Production, plus another +1 Production when at war. Wars also grant +10% Science.\nGreat Artists spawn 33% faster. \nArmor & Air units are 20% cheaper to produce."
-                 "uniques": ["+1 Production, +1 Culture] from every specialist [in all non-occupied cities]<when not at war>", "[+2 Production, +1 Culture] from every specialist [in all non-occupied cities]<when at war>", "[+10]% [Science]<when at war>", "+[20]% Production when constructing [Armor] units", "+[20]% Production when constructing [Air] units", "[Great Artist] is earned [+33]% faster"],
-                 "cities": ["St. Marmero","Glorian","Marinetti","Carrà","Ferrara","Depero","Elan","Apollonia","Illenises","Lupertazzi","I hope I don't wake up tomorrow","Picenia","Vroom Vroom"],
+                 "uniqueText": "All specialists yield +1 Culture and +1 Production, increasing to +2 when at war. Wars also grant +10% Science.\nGreat Artists spawn 33% faster. \nArmor & Air units are 20% cheaper to produce."
+                 "uniques": ["+1 Production, +1 Culture] from every specialist [in all non-occupied cities]<when not at war>", "[+2 Production, +2 Culture] from every specialist [in all non-occupied cities]<when at war>", "[+10]% [Science]<when at war>", "+[20]% Production when constructing [Armor] units", "+[20]% Production when constructing [Air] units", "[Great Artist] is earned [+33]% faster"],
+                 "cities": ["St. Marmero","Glorian","Orgoloso","Carrà","Ferrara","Depero","Elan","Apollonia","Illenises","Nungesser","Lupertazzi","I hope I don't wake up tomorrow","Picenia","Vroom Vroom","Cogilari"],
         }
 ]
