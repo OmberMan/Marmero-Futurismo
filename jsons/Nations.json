@@ -1,47 +1,30 @@
 [
   {
-    "adjective": "Futurist",
-    "attacked": "\"ZANG-TUMB\nTUMB-TUMB\nTUUUUUM\" - Filippo Marinetti, Voi. Proprio Adesso, 1939",
-    "cities": [
-      "St. Marmero",
-      "Glorian",
-      "Marinetti",
-      "Carrà",
-      "Ferrara",
-      "Depero",
-      "Elan",
-      "Apollonia",
-      "Lupertazzi",
-      "I hope I don't wake up tomorrow",
-      "Picenia",
-      "Vroom Vroom"
-    ],
-    "declaringWar": "\"Muoviti, puttana.  \nTogliti di mezzo.  \nTogliti di mezzo, cagna, togliti di mezzo.\" - Filippo Tommaso Marinetti, Selected Poems and Related Prose",
-    "defeated": "\"Come cucinare uno spaghetti futurista: \nIn primo luogo, consuma metanfetamine di cristallo.  \nIn secondo luogo, aumenta i pensieri negativi nevrotici.  \nTerzo, odi te stesso, quanto tutto sia noioso e come la vita non abbia più nulla da offrire.  \nQuarto, questo non è uno scherzo, se tu fossi qui ti abbraccerei subito, o almeno parlerei incessantemente.\" - Filippo Marinetti, L'aeropoema di Gesù, 1944",
-    "hateHello": "\"Je ne te chie pas, frère. \nElle a mis son vagin dans une soucoupe de lait et a dit que sa chatte avait soif.  \nLa merde la plus drôle que j'aie jamais vue.\" - George Batallie, Fucking Asshole, 1928",
-    "innerColor": [
-      245,
-      35,
-      175
-    ],
-    "introduction": "\"We [Futurists] want to glorify war - the only cure for the world - militarism, patriotism, the destructive gesture of the anarchists, the beautiful ideas which kill, and contempt for woman. We want to demolish museums and libraries, fight morality, feminism and all opportunist and utilitarian cowardice...\" - Filippo Marinetti, The Futurist Manifesto, 1909",
-    "leaderName": "Futurist State of Antegria",
     "name": "Antegria",
-    "neutralHello": "\"Velocità lmao\" - Filippo Marinetti, Tutto Il Tempo",
-    "outerColor": [
-      115,
-      235,
-      0
-    ],
+    "leaderName": "Filippo Marinetti",
+    "adjective": "Futurist",
+    "startBias": ["Coast"],
+    "favouredReligion": "Islam",
     "preferredVictoryType": "Domination",
-    "startBias": [
-      "Coast"
-    ],
+    
     "startIntroPart1": "Antegria is a country to the west of Arstotzka. It is one of the four countries that do not border Arstotzka directly. A fleeing couple says they are fleeing from Antegrian tyranny. The wife of the couple says she will be killed if she is denied. Information about a domestic spying program is also given on day 11 when the said program is exposed. I cannibalized the former Paper's Please mod 3 years ago to make Antegria futurist cause I thought generic dictatorships were lame and couldn't do PNG files. I forced my self to finish this after the usual neurotic->braindead falloff. I still fucking hate atlas files. Anyways if anyone's playing this, have fun, and tell me if I fucked anything up, I'm planning on adding UU/UBs by at least 2025.",
     "startIntroPart2": "Refer to the poetry and writings of Marinetti & Mayakovsky for furth lmao no don't do that read Kierkegaard",
+
+    "declaringWar": "\"Muoviti, puttana.  \nTogliti di mezzo.  \nTogliti di mezzo, cagna, togliti di mezzo.\" - Filippo Tommaso Marinetti, Selected Poems and Related Prose",
+    "attacked": "\"ZANG-TUMB\nTUMB-TUMB\nTUUUUUM\" - Filippo Marinetti, Voi. Proprio Adesso, 1939",
+    "defeated": "\"Come cucinare uno spaghetti futurista: \nIn primo luogo, consuma metanfetamine di cristallo.  \nIn secondo luogo, aumenta i pensieri negativi nevrotici.  \nTerzo, odi te stesso, quanto tutto sia noioso e come la vita non abbia più nulla da offrire.  \nQuarto, questo non è uno scherzo, se tu fossi qui ti abbraccerei subito, o almeno parlerei incessantemente.\" - Filippo Marinetti, L'aeropoema di Gesù, 1944",
+    "introduction": "\"We [Futurists] want to glorify war - the only cure for the world - militarism, patriotism, the destructive gesture of the anarchists, the beautiful ideas which kill, and contempt for woman. We want to demolish museums and libraries, fight morality, feminism and all opportunist and utilitarian cowardice...\" - Filippo Marinetti, The Futurist Manifesto, 1909",
+    "hateHello": "\"Je ne te chie pas, frère. \nElle a mis son vagin dans une soucoupe de lait et a dit que sa chatte avait soif.  \nLa merde la plus drôle que j'aie jamais vue.\" - George Batallie, Fucking Asshole, 1928",
+    
+    "neutralHello": "\"Velocità lmao\" - Filippo Marinetti, Tutto Il Tempo",
+    "hateHello": "\"Je ne te chie pas, frère. \nElle a mis son vagin dans une soucoupe de lait et a dit que sa chatte avait soif.  \nLa merde la plus drôle que j'aie jamais vue.\" - George Batallie, Fucking Asshole, 1928",
     "tradeRequest": "\"Emotions are steep like cliffs, -\nplease,\nstep away farther.\" - Vladimir Mayakovsky, Backbone Flute: Selected Poetry",
-    "uniques": "\"[+1 Production, -1 Faith] from every specialist [in all non-occupied cities]<when not at war>\",  \"[+2 Production, +1 Culture, -1 Faith] from every specialist [in all non-occupied cities]<when at war>\", \"[+10]% [Science]<when at war>\", \"+[20]% Production when constructing [Armor] units\", \"+[20]% Production when constructing [Air] units\", \"[Great Artist] is earned [+33]% faster\"",
+    
+    "outerColor": [115,23,0],
+    "innerColor": [245,35,175],
     "uniqueName": "Marmero Futurista",
+    "uniques": "\"[+1 Production, -1 Faith] from every specialist [in all non-occupied cities]<when not at war>\",  \"[+2 Production, +1 Culture, -1 Faith] from every specialist [in all non-occupied cities]<when at war>\", \"[+10]% [Science]<when at war>\", \"+[20]% Production when constructing [Armor] units\", \"+[20]% Production when constructing [Air] units\", \"[Great Artist] is earned [+33]% faster\"",
     "uniqueText": "All specialists yield -1 Faith and +1 Production, plus another +1 Production and +1 Culture when at war. Wars also grant +10% Science.\nGreat Artists spawn 33% faster. \nArmor & Air units are 20% cheaper to produce."
+    "cities": ["St. Marmero","Glorian","Marinetti","Carrà","Ferrara","Depero","Elan","Apollonia","Illenises","Lupertazzi","I hope I don't wake up tomorrow","Picenia","Vroom Vroom"],
   }
 ]
