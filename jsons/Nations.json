@@ -13,7 +13,7 @@
                  "declaringWar": "\"Muoviti, puttana.  \nTogliti di mezzo.  \nTogliti di mezzo, cagna, togliti di mezzo.\" - Filippo Tommaso Marinetti, Selected Poems and Related Prose",
                  "attacked": "\"ZANG-TUMB\nTUMB-TUMB\nTUUUUUM\" - Filippo Marinetti, Voi. Proprio Adesso, 1939",
                  "defeated": "\"Come cucinare uno spaghetti futurista: \nIn primo luogo, consuma metanfetamine di cristallo.  \nIn secondo luogo, aumenta i pensieri negativi nevrotici.  \nTerzo, odi te stesso, quanto tutto sia noioso e come la vita non abbia più nulla da offrire.  \nQuarto, questo non è uno scherzo, se tu fossi qui ti abbraccerei subito, o almeno parlerei incessantemente.\" - Filippo Marinetti, L'aeropoema di Gesù, 1944",
-                 "introduction": "\"We (Futurists) want to glorify war - the only cure for the world - militarism, patriotism, the destructive gesture of the anarchists, the beautiful ideas which kill, and contempt for woman. We want to demolish museums and libraries, fight morality, feminism and all opportunist and utilitarian cowardice...\" - Filippo Marinetti, The Futurist Manifesto, 1909",
+                 "introduction": "\"We [Futurists] want to glorify war - the only cure for the world - militarism, patriotism, the destructive gesture of the anarchists, the beautiful ideas which kill, and contempt for woman. We want to demolish museums and libraries, fight morality, feminism and all opportunist and utilitarian cowardice...\" - Filippo Marinetti, The Futurist Manifesto, 1909",
     
                  "neutralHello": "\"Velocità lmao\" - Filippo Marinetti, Tutto Il Tempo",
                  "hateHello": "\"Je ne te chie pas, frère. \nElle a mis son vagin dans une soucoupe de lait et a dit que sa chatte avait soif.  \nLa merde la plus drôle que j'aie jamais vue.\" - George Batallie, Fucking Asshole, 1928",
@@ -21,9 +21,9 @@
     
                  "outerColor": [125,245,15],
                  "innerColor": [245,35,165],
-                 "uniqueName": "Marmero Futurista",
+                 "uniqueName": "Màrmero Futurista",
                  "uniqueText": "When at war, all specialists yield +3 Culture and +2 Production, and gain a +10% bonus to science. \n Great Artists, Armor, & Air units are 25% cheaper.",
-                 "uniques": "[+2 Production, +3 Culture] from every specialist [in all non-occupied cities]<when at war>", "[+10]% [Science]<when at war>", "+[25]% Production when constructing [Armor] units", "+[25]% Production when constructing [Air] units", "[Great Artist] is earned [+25]% faster"],
-                 "cities": ["St. Marmero","Glorian","Orgoloso","Carrà","Ferrara","Depero","Elan","Apollonia","Illenises","Nungesser","Lupertazzi","I hope I don't wake up tomorrow","Picenia","Vroom Vroom","Cogilari"],
+                 "uniques": ["[+2 Production, +3 Culture] from every specialist [in all non-occupied cities]<when at war>", "[+10]% [Science]<when at war>", "+[25]% Production when constructing [Armor] units", "+[25]% Production when constructing [Air] units", "[Great Artist] is earned [+25]% faster"],
+                 "cities": ["St. Màrmero","Glorian","Orgoloso","Carrà","Ferrara","Depero","Élan","Apollonia","Ïllenìses","Nungesser","Lupertazzi","I hope I don't wake up tomorrow","Picenia","Vroom Vroom","Cogilari"],
         }
 ]
