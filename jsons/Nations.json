@@ -23,8 +23,8 @@
                  "outerColor": [115,235,15],
                  "innerColor": [215,25,135],
                  "uniqueName": "Màrmero Futurista",
-                 "uniqueText": "When at war, all specialists yield +2 Culture and +2 Production, and gain a +15% bonus to science. \n Great Artists, Armor, & Air units are 25% cheaper.",
-                 "uniques": ["[+2 Production, +2 Culture] from every specialist [in all non-occupied cities] <when at war>", "[+15]% [Science] <when at war>", "+[25]% Production when constructing [Armor] units", "+[25]% Production when constructing [Air] units", "[Great Artist] is earned [+25]% faster"],
+                 "uniqueText": "When at war, all specialists yield +2 Culture and +1 Production, and gain a +10% bonus to science. \n Great Artists, Armor, & Air units are 25% cheaper.",
+                 "uniques": ["[+1 Production, +2 Culture] from every specialist [in all non-occupied cities] <when at war>", "[+10]% [Science] <when at war>", "[+25]% Production when constructing [Armor] units", "[+25]% Production when constructing [Air] units", "[Great Artist] is earned [+25]% faster"],
                  "cities": ["St. Màrmero","Glorian","Orgoloso","Carrà","Ferrara","Depero","Élan", "Brutiium","Apollonia","Ïllenìses","Nungesser", "Il Regno del Re dell'Autostrada","Lupertazzi", "Lucania", "I hope I don't wake up tomorrow","Picenia","Vroom Vroom","Cogilari"],
         }
 ]
