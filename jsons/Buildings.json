@@ -1,1 +1,14 @@
-hawooga
+[
+{
+"name": "Teatro del Pollentia//Virtyt//Timoría//Forza",
+"uniqueTo": "Antegria",
+"replaces": "Amphitheater",
+ "culture": 2,
+		"specialistSlots": {"Artist": 3},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": ["[+100]% Unhappiness from [Specialists] [in this city]", "[+33]% Great Person generation [in this city]", "[+1 Culture, +1 Science] [in this city] <during a Golden Age>"],
+		"requiredTech": "Drama and Poetry"
+}
+]
