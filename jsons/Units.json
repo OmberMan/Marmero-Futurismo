@@ -2,19 +2,20 @@
 {
 "name": "Ésçquadrone Avanzato",
 "uniqueTo": "Antegria",
+"replaces": "Triplane",
   "unitType": "Fighter",
 		"movement": 1,
 		"strength": 35,
 		"rangedStrength": 35,
 		"range": 5,
 		"interceptRange": 5,
-		"cost": 310,
+		"cost": 300,
 		"requiredTech": "Flight",
 		"requiredResource": "Oil",
 		"upgradesTo": "Fighter",
 		"obsoleteTech": "Radar",
-		"uniques": ["[50]% chance to intercept air attacks", "[+33]% Damage when intercepting", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Self-destructs when attacking <when below [16] HP>", "[+100]% Strength <when attacking> <when below [16] HP>", "[+67]% Strength <vs [Water] units> <when attacking> <when below [16] HP>", "Earn [33]% of the damage done to [All] units as [Culture]", "Damage is ignored when determining unit Strength"],
-  "promotions": [{"Quick Study"}],
+		"uniques": ["[50]% chance to intercept air attacks", "[+33]% Damage when intercepting", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Self-destructs when attacking <when below [16] HP>", "[+100]% Strength <when attacking> <when below [16] HP>", "[+67]% Strength <vs [Water] units> <when attacking> <when below [16] HP>", "Earn [33]% of the damage done to [All] units as [Culture]"],
+  "promotions": ["Quick Study"],
 		"attackSound": "machinegun"
 }
 ]
