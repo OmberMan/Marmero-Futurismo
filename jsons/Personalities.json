@@ -1,0 +1,14 @@
+[
+{
+                "name": "Tomato Marinetti",
+                "preferredVictoryType": "Domination",
+                "food": 3,
+                "production": 8,
+                "gold": 4,
+                "culture": 10,
+                "science": 9,
+                "faith": 1,
+                "military": 8,
+                "warMongering": 9
+        },
+]
