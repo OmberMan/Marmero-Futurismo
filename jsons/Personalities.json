@@ -9,6 +9,12 @@
                 "science": 9,
                 "faith": 1,
                 "military": 8,
-                "warMongering": 9
+                "warMongering": 9,
+                "priorities": {
+    "Autocracy": 50,
+    "Liberty": 10,
+    "Aesthetics": 60,
+    "Rationalism": 30
+}
         },
 ]
