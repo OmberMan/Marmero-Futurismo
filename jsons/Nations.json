@@ -41,8 +41,8 @@
     "attacked": "That is silly. Your forced cannot legally enter our borders without approved polio vaccination certificates. /nThey'll just be detained. What are you thinking?",
     "defeated": "I congratulate you. You have breached our East Gremgrim Borber Security and destroyed us. But the ideas of communism will not fall and someone else will return some day."
     "uniques": ["[+75]% City Strength from defensive buildings", "[-50]% unhappiness from the number of cities", "[+50]% Unhappiness from [Population] [in all cities]", "[Production]% from every [Walls]", "[Production]% from every [Castle]", "[Production]% from every [Arsenal]", "[Production]% from every [Military Base]", "[Production]% from every [Bomb Shelter]"],
-    "outerColor": [47, 79, 79],
-    "innerColor": [95, 158, 160],
+    "outerColor": [0, 0, 0],
+    "innerColor": [180, 40, 30]  
     "cities": ["Paradizna","East Grestin","Orvich-Vonor","Nirsk"]
   },
 ]
