@@ -1,15 +1,20 @@
 [  
-        {  
-          "name": "Autarkic",  
-          "friendBonusUniques": [  
-"[+1 Culture] from every [Building] [in capital]",  
-"[+4 Gold] [in all coastal cities] <before the [Industrial era]>",  
-"[+8 Gold] [in all coastal cities] <starting from the [Industrial era]>"],  
-          "allyBonusUniques": [ 
-"[+1 Culture, +1 Happiness] from every [Building] [in capital]",    
-"[+14 Gold] [in all coastal cities] <starting from the [Industrial era]>",  
-"[+7 Gold] [in all coastal cities] <before the [Industrial era]>",
-"Provides a unique luxury"],  
+    {
+        "name": "Autarkic",
+        "friendBonusUniques":  [
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+40]% City Strength from defensive buildings",
+                "[-10]% Unhappiness from [Population] [in all cities with a garrison]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+80]% City Strength from defensive buildings",
+                "[-15]% Unhappiness from [Population] [in all cities with a garrison]"
+        ],
           "color": [180, 40, 30]  
       }
 ]
