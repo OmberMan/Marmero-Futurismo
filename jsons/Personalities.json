@@ -3,7 +3,7 @@
                 "name": "Tomato Marinetti",
                 "preferredVictoryType": "Domination",
                 "food": 3,
-                "production": 8,
+                "production": 9,
                 "gold": 4,
                 "culture": 10,
                 "science": 9,
@@ -11,11 +11,12 @@
                 "military": 8,
                 "warMongering": 9,
                 "priorities": {
-    "Autocracy": 50,
+    "Autocracy": 100,
     "Liberty": 10,
     "Aesthetics": 60,
-    "Rationalism": 30
-}
+    "Rationalism": 40,
+    "Exploration": 20
+},
 "uniques": ["Will not build [Faith]"]
         },
 ]
