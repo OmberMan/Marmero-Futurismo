@@ -10,14 +10,18 @@
                 "style": "Mediterranean",
     
                  "startIntroPart1": "Antegria is a country to the west of Arstotzka. A fleeing couple says they are fleeing from Antegrian tyranny. Information about a domestic spying program is also given on day 11 when the said program is exposed. I cannibalized the former Paper's Please mod 3 years ago to make Antegria futurist cause generic dictatorships were lame and I couldn't do PNG files. Anyways still hope u have have fun, and tell me if I fucked anything up. Additionally, Capitano! Can you lead the futurist movement into the actual future? Will you propel Milan and the world beyond into a dynamic, brilliant new age that will stand the test of time? ",
-                 "startIntroPart2": "As for futurism, refer to the poetry and writings of Marinetti & Mayakovsky for further information lmao no don't do that read Kierkegaard",
+                 "startIntroPart2": "As for futurism, refer to the poetry and writings of Marinetti & Mayakovsky for further information. \nOr don't do that and read Kierkegaard",
 
-                 "declaringWar": "\"Muoviti, puttana.  \nTogliti di mezzo.  \nTogliti di mezzo, cagna, togliti di mezzo.\" \n- Filippo Tommaso Marinetti, Selected Poems and Related Prose",
+                 "declaringWar": "\"Muoviti, puttana. \n Togliti di mezzo.  \n  Togliti di mezzo, cagna, togliti di mezzo.\" \n- Filippo Tommaso Marinetti, Selected Poems and Related Prose",
                  "attacked": "\"ZANG-TUMB\nTUMB-TUMB\nTUUUUUM\" \n- Filippo Marinetti, Voi. Proprio Adesso, 1939",
-                 "defeated": "\"Come cucinare uno spaghetti futurista: \nIn primo luogo, consuma metanfetamine di cristallo.  \nIn secondo luogo, aumenta i pensieri negativi nevrotici.  \nTerzo, odi te stesso, quanto tutto sia noioso e come la vita non abbia più nulla da offrire.  \nQuarto, questo non è uno scherzo, se tu fossi qui ti abbraccerei subito, o almeno parlerei incessantemente.\" - Filippo Marinetti, L'aeropoema di Gesù, 1944",
+                 "defeated": "\"Come cucinare uno spaghetti futurista: \nIn primo luogo, consuma metanfetamine di cristallo.  \nIn secondo luogo, aumenta i pensieri negativi nevrotici.  \nTerzo, odi te stesso, quanto tutto sia noioso e come la vita non abbia più nulla da offrire.  \nQuarto, questo non è uno scherzo, se tu fossi qui ti abbraccerei subito.\" - Filippo Marinetti, L'aeropoema di Gesù, 1944",
                  "introduction": "\"We [Futurists] want to glorify war \n- the only cure for the world - \nmilitarism, patriotism, the destructive gesture of the anarchists, the beautiful ideas which kill, and contempt for woman. \nWe want to demolish museums and libraries, fight morality, feminism and all opportunist and utilitarian cowardice...\" \n- Filippo Marinetti, The Futurist Manifesto, 1909",
     
-                 "neutralHello": "\"Velocità lmao\" \n- Filippo Marinetti, Tutto Il Tempo",
+                 "neutralHello": "'Nessuna poesia davanti a noi
+ \ncon la nostra immaginazione wireless
+ \ne le parole in libertà vivono a LUUUngo
+ \nFuturismo finalmente finalmente finalmente \nfinalmente finalmente finalmente finalmente
+ \nPoesia che NASCE' \n- Filippo Marinetti, Tutto Il Tempo",
                  "hateHello": "\"Je ne te chie pas, frère. \nElle a mis son vagin dans une soucoupe de lait et a dit que sa chatte avait soif.  \nLa merde la plus drôle que j'aie jamais vue.\" \n- George Batallie, Scott Pilgrim versus the World, 1928",
                  "tradeRequest": "\"Emotions are steep like cliffs, -\nplease,\nstep away farther-\" \n- Vladimir Mayakovsky, Backbone Flute: Selected Poetry",
     
@@ -37,7 +41,7 @@
     
     "cityStateType": "Autarkic",
     "declaringWar": "Destroy... Destroy the enemies of the people!",
-    "attacked": "That is silly. Your forced cannot legally enter our borders without approved polio vaccination certificates. /nThey'll just be detained. What are you thinking?",
+    "attacked": "You silly. \nYour forces cannot legally enter our border without approved pollio vaccination certificates. /nThey'll just be detained. What are you thinking?",
     "defeated": "I congratulate you. You have breached our East Gremgrim Borber Security and destroyed us. But the ideas of communism will not fall and someone else will return some day."
     "uniques": ["[+75]% City Strength from defensive buildings", "[-50]% unhappiness from the number of cities", "[+50]% Unhappiness from [Population] [in all cities]", "[Production]% from every [Walls]", "[Production]% from every [Castle]", "[Production]% from every [Arsenal]", "[Production]% from every [Military Base]", "[Production]% from every [Bomb Shelter]"],
     "outerColor": [0, 0, 0],
