@@ -5,7 +5,6 @@
                 "leaderName": "Filippo Tommato Marinetti",
                 "personality": "Tomato Marinetti",
                 "adjective": ["Futurist"],
-                "personality": "Tomato Marinetti",
                 "startBias": ["Coast"],
                 "preferredVictoryType": "Domination",
                 "style": "Mediterranean",
@@ -43,6 +42,6 @@
     "uniques": ["[+75]% City Strength from defensive buildings", "[-50]% unhappiness from the number of cities", "[+50]% Unhappiness from [Population] [in all cities]", "[Production]% from every [Walls]", "[Production]% from every [Castle]", "[Production]% from every [Arsenal]", "[Production]% from every [Military Base]", "[Production]% from every [Bomb Shelter]"],
     "outerColor": [0, 0, 0],
     "innerColor": [180, 40, 30]  
-    "cities": ["Paradizna","East Grestin","Orvich-Vonor","Nirsk"]
+    "cities": ["Paradizna","East Grestin"," Blurpsk","Orvich-Vonor","Nirsk"]
   },
 ]
